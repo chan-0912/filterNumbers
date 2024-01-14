@@ -1,0 +1,14 @@
+{
+  "name": "jstest",
+  "version": "1.0.0",
+  "description": "A Program to filter numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Chanchal Yadav",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
